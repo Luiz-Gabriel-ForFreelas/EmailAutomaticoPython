@@ -1,2 +1,7 @@
 # EmailAutomaticoPython
-Meu primeiro projeto oficialmente implementado numa siutação real de trabalho, o projeto consiste numa busca de informações dentro de uma base de dados Postgres, alocação dessas informações em uma tabela base, atualização das informações e envio da tabela por email.
+
+Meu primeiro projeto em situação real de trabalho utilizando Python para análise, formatação e envio de dados.
+
+O objetivo do projeto é buscar informações dentro de um banco de dados SQL, replica-las em uma planilha base em excel e encaminhar o novo resultado para os destinatários que necessitam da informação.
+
+O projeto é 100% independente, tornando um processo manual e demorado em algo rápido e confiável.
