@@ -1,4 +1,4 @@
-# O arquivo não contém credenciais reias a fim de manter a segurança da informação utilizada no projeto efetivo.
+# O arquivo não contém credenciais reais a fim de manter a segurança da informação utilizada no projeto efetivo.
 
 # importação de bibliotecas
 import pandas as pd
